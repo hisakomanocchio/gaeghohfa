@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahgohohte.stevechallis.com/sitemap.xml
